@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1024px){
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/assets/custom-styles/general-custom-styles-responsive.php hoshi_mikado_design_responsive_styles function */
+.touch .mkd-parallax-section-holder.mkd-parallax-section-holder-touch-disabled { height: auto !important;min-height: 185px;}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	}
+
+@media only screen and (max-width: 480px){
+	}

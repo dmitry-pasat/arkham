@@ -1,0 +1,97 @@
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/assets/custom-styles/general-custom-styles.php hoshi_mikado_design_styles function */
+.mkd-preload-background { background-image: url(https://arkham.enterprises/wp-content/themes/hoshi/assets/img/preload_pattern.png) !important;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/assets/custom-styles/general-custom-styles.php hoshi_mikado_design_styles function */
+.mkd-wrapper-inner, .mkd-content { background-color: #f7f7f7;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/assets/custom-styles/general-custom-styles.php hoshi_mikado_design_styles function */
+::selection { background: #1c99bf;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/assets/custom-styles/general-custom-styles.php hoshi_mikado_design_styles function */
+::-moz-selection { background: #1c99bf;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/assets/custom-styles/general-custom-styles.php hoshi_mikado_design_styles function */
+.mkd-boxed .mkd-wrapper { background-attachment: fixed;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/assets/custom-styles/general-custom-styles.php hoshi_mikado_404_styles function */
+.error404 .mkd-content .mkd-container { background-image: url(http://hoshi.mikado-themes.com/wp-content/themes/hoshi/assets/css/img/image404.jpg);}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/blog/custom-styles/blog.php hoshi_mikado_archive_bg_color_styles function */
+body.archive:not(.woocommerce) .mkd-wrapper-inner, body.archive:not(.woocommerce) .mkd-content { background-color: #fafafa;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/contactform7/custom-styles/contact-form.php hoshi_mikado_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea { height: 188px;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/contactform7/custom-styles/contact-form.php hoshi_mikado_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/contactform7/custom-styles/contact-form.php hoshi_mikado_contact_form7_button_hover_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/contactform7/custom-styles/contact-form.php hoshi_mikado_contact_form7_button_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit { min-width: 100%;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/contactform7/custom-styles/contact-form.php hoshi_mikado_contact_form7_button_hover_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/fullscreenmenu/custom-styles/fullscreen-menu.php hoshi_mikado_fullscreen_menu_general_styles function */
+.mkd-fullscreen-menu-holder { background-image: url(http://hoshi.mikado-themes.com/wp-content/uploads/2016/12/fullscreen-menu-background-img.jpg);background-position: center 0;background-repeat: no-repeat;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/header/custom-styles/header.php hoshi_mikado_header_top_bar_styles function */
+.mkd-top-bar-background { height: 90px;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/header/custom-styles/header.php hoshi_mikado_header_standard_menu_area_styles function */
+.mkd-header-standard .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/header/custom-styles/header.php hoshi_mikado_header_minimal_menu_area_styles function */
+.mkd-header-minimal .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/header/custom-styles/header.php hoshi_mikado_header_divided_menu_area_styles function */
+.mkd-header-divided .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/header/custom-styles/header.php hoshi_mikado_header_centered_menu_area_styles function */
+.mkd-header-centered .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+                        li.narrow .second .inner ul,
+                .mkd-drop-down .wide .second .inner > ul{
+                padding-top: 0px;
+                }
+                    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+                
+        /* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/search/custom-styles/search.php hoshi_mikado_fullscreen_search_styles function */
+.mkd-search-fade .mkd-fullscreen-search-holder .mkd-fullscreen-search-table { background-image: url(https://arkham.enterprises/wp-content/uploads/2017/04/search-background-img.jpg);}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/sidearea/custom-styles/sidearea.php hoshi_mikado_side_area_alignment function */
+.mkd-side-menu-slide-from-right .mkd-side-menu, .mkd-side-menu-slide-with-content .mkd-side-menu, .mkd-side-area-uncovered-from-content .mkd-side-menu { text-align: left;}
+
+/* generated in /srv/www/vhosts/arkham.enterprises/httpdocs/wp-content/themes/hoshi/framework/modules/title/custom-styles/title.php hoshi_mikado_title_area_typography_style function */
+.mkd-title .mkd-title-holder .mkd-breadcrumbs a, .mkd-title .mkd-title-holder .mkd-breadcrumbs span { text-transform: uppercase;}
+

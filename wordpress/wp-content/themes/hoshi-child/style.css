@@ -1,0 +1,10 @@
+/*
+Theme name: Hoshi Child
+Theme URI: http://localhost/arkham-website/wordpress/
+Description: This is a child theme of hoshi
+Author: Dumitru Pasat
+Author URI: http://pasatdumitru.com
+Template: hoshi
+Version: 0.1
+*/
+@import url("../hoshi/style.css");

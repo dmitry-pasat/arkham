@@ -1,0 +1,351 @@
+/*quick contact plugin styles*/
+.email-send{
+    z-index: 1000;
+    position: fixed;
+    display: block;
+    left: 84%;
+    top: 86%;
+    right: -45%;
+}
+.email-send .email-form{
+    top: 25%;
+    position: fixed;
+    right: 4%;
+}
+.email-send .email-form form{
+    background: #fff;
+    width: 76%;
+    height: 280px;
+    padding: 30px 13px;
+    display: block;
+    margin: auto;
+    border-radius: 4px;
+}
+.email-send .email-form form input, .email-send .email-form form textarea{
+    border: 1px solid #3071a9;
+    width: 86%;
+    text-align: center;
+    margin: 2px auto;
+    display: block;
+}
+.email-send .email-form form input{
+    height: 43px;
+}
+.email-send .email-form form textarea{
+    height: 86px;
+}
+.email-send .email-form form input[type="submit"]{
+    width: 146px;
+    height: 48px;
+    margin-top: 24px;
+    background: #3071a9;
+}
+
+div.wpcf7-mail-sent-ng{
+    display: block;
+    position: relative;
+    top: -458px;
+    left: -20px;
+    width: 283px;
+}
+
+div.wpcf7-response-output {
+    display: block;
+    position: relative;
+    top: -469px;
+    color: red;
+    left: -20px;
+    width: 283px;
+}
+.email-send .email-form .wpcf7-not-valid-tip{
+    display:none;
+}
+
+/*
+Portfolio Element Styles
+*/
+.portfolio-section{
+    height:606px;
+    width:100%!important;
+    margin-bottom: 37px;
+    padding-right: 0!important;
+    padding-left: 0!important;
+    background-color: #0d182b;
+}
+
+.portfolio-section .carousel-inner{
+    padding-top: 79px;
+    padding-left: 36px;
+    /*background-color: #0d182b;*/
+   /* height: 624px;*/
+}
+.portfolio-section .carousel-inner .item-screenshot img{
+    object-fit:contain;
+    height: 447px;
+    width:650px;
+}
+
+@media only screen and (min-width: 480px) {
+    .portfolio-section .carousel-indicators:not(.thumbnails) li {
+        vertical-align: middle;
+        background-color: transparent;
+        border: none;
+    }
+    .portfolio-section .carousel-indicators li {
+        width: 65px!important;
+        height: 38px!important;
+        margin: 1px;
+        text-indent: 0!important;
+        border: none;
+        border-radius: 0!important;
+        margin: 0 -5px;
+    }
+}
+
+.portfolio-section .notebook {
+    width: 65px;
+    height: 38px;
+    object-fit: contain;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
+}
+.portfolio-section .website {
+    width: 48.4px;
+    height: 18px;
+    font-family: Catamaran;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ee3e4c;
+    margin: 6px auto;
+}
+.portfolio-section .ipad-2 {
+    width: 30px;
+    height: 38px;
+    object-fit: contain;
+}
+.portfolio-section .tablet {
+    width: 38px;
+    height: 18px;
+    font-family: Catamaran;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    margin: 6px auto;
+}
+.portfolio-section .smartphone {
+    width: 21px;
+    height: 38px;
+    object-fit: contain;
+}
+.portfolio-section .mobile {
+    width: 39px;
+    height: 18px;
+    font-family: Catamaran;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    margin: 6px auto;
+}
+
+.portfolio-section .oval {
+    background-image: url("../img/portfolio/oval.png");
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 21px;
+    top: 280px;
+    right: -45px;
+    position: relative;
+}
+.portfolio-section .shape {
+    width: 10.8px;
+    height: 18px;
+    background-color: #fff;
+    position: relative;
+    top: 13px;
+    left: 17px;
+}
+
+.portfolio-section .carousel-inner .commercial-publishing {
+    width: 362px;
+    height: 59px;
+    font-family: Catamaran;
+    font-size: 36px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.portfolio-section .carousel-inner .item-text{
+    float: right;
+    position: relative;
+    /* top: -399px; */
+    /* right: 112px; */
+    color: #fff;
+    /* width: 33%; */
+}
+
+.portfolio-section .carousel-inner .item-description{
+    width: 454px;
+    height: 110px;
+    font-family: Catamaran;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    overflow: hidden;
+}
+.portfolio-section .carousel-inner .line{
+    width: 350px;
+    height: 2px;
+    border: solid 0.3px #ffffff;
+    margin-top:44px!important;
+    margin-bottom:44px!important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.portfolio-section .item-testimonial-text{
+    width: 452px;
+    height: 83px;
+    font-family: Catamaran;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    overflow: hidden;
+}
+.portfolio-section .item-testimonial-data{
+    width: 260px;
+    margin: 0 auto;
+}
+.portfolio-section .item-testimonial-data img{
+    float:left;
+    width: 100px;
+    object-fit: contain;
+}
+.portfolio-section .testimonial-person{
+    width: 154px;
+    height: 54px;
+    font-family: Catamaran;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    overflow: hidden;
+    top: 22px;
+    position: relative;
+}
+.portfolio-section .testimonial-person-name{
+    font-size:17px;
+}
+
+.portfolio-section .carousel-indicators{
+    left: 31%;
+    width: 48%;
+    bottom: -8%;
+}
+/*
+Portfolio Element Styles Responsive
+*/
+@media only screen and (max-width: 991px) {
+    .portfolio-section{
+        height: 1118px;
+    }
+    .portfolio-section .carousel-inner .item-description, .portfolio-section .item-testimonial-text{
+        width: 688px;
+    }
+    .portfolio-section .carousel-indicators{
+        top: 50%;
+        left: 49%;
+    }
+    .portfolio-section .text-box{
+        margin-top: 115px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .portfolio-section .carousel-inner .item-description, .portfolio-section .item-testimonial-text{
+        width:615px;
+    }
+    .portfolio-section .carousel-inner .item-text{
+        float:none;
+    }
+}
+@media only screen and (max-width: 646px) {
+    .portfolio-section .carousel-inner .item-description, .portfolio-section .item-testimonial-text{
+        width:459px;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .portfolio-section .carousel-inner .item-description {
+        width:436px;
+        height:78px;
+        overflow:hidden;
+    }
+    .portfolio-section .item-testimonial-text{
+        width:436px;
+        height:112px;
+        overflow:hidden;
+    }
+    .portfolio-section .carousel-indicators img, .portfolio-section .carousel-indicators p{
+        display:none;
+    }
+    .portfolio-section .carousel-inner{
+        padding: 0 5px;
+    }
+    .portfolio-section .carousel-indicators{
+        top:44%;
+    }
+    .portfolio-section .text-box {
+        margin-top: 0;
+    }
+    .portfolio-section{
+        height: 957px;
+    }
+    .portfolio-section .carousel-inner .item-text{
+        float:none;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .portfolio-section .carousel-inner .item-description {
+        width:315px;
+    }
+    .portfolio-section .item-testimonial-text{
+        width:315px;
+    }
+}
+
+
